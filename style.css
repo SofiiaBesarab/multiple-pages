@@ -1,0 +1,14 @@
+body {
+  background-color: #fdffcd;
+  text-align: center;
+}
+
+img {
+  border-radius: 6px;
+}
+
+.info {
+  padding: 20px;
+  display: flex;
+  justify-content: space-around;
+}
